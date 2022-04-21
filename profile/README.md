@@ -18,10 +18,12 @@ Our events will be completely free and open to the public.
 
 ## Join & Discuss
 
+We post our events on our Meetup page! [Join Us](https://www.meetup.com/Flutter-Developer-Group-Kozhikode).
+
 We welcome you to our Telegram group for the discussion about Flutter and a chance to share your knowledge. Feel free to ask your doubts, share your open source projects! 
 
 
-[Telegram](https://t.me/FlutterKozhikode) | [Twitter](https://twitter.com/FlutterDevsKKD) 
+[Meetup](https://www.meetup.com/Flutter-Developer-Group-Kozhikode) | [Telegram](https://t.me/FlutterKozhikode) | [Twitter](https://twitter.com/FlutterDevsKKD) 
 
 
 ![](assets/Logo.jpg)
